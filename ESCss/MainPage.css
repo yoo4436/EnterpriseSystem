@@ -43,7 +43,8 @@ body, html {
 
 #sidebarN.toggled span,            
 #sidebarN.toggled .menu-category,   
-#sidebarN.toggled .sidebar-user {
+#sidebarN.toggled .sidebar-user,
+#sidebarN.toggled .dropdown-caret {
     display: none;    
 }
 
